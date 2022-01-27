@@ -1,0 +1,2 @@
+this is my first file in git bash
+ i am using echo to insert a line
