@@ -1,2 +1,5 @@
 this is my first file in git bash
  i am using echo to insert a line
+[master (root-commit) d21f361] this is the first commit
+ 1 file changed, 2 insertions(+)
+ create mode 100644 file1.txt
